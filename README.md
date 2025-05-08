@@ -51,7 +51,7 @@ pip install pyDatalog
 
 ## References
 
-- Soufflé Datalog Engine: https://souffle-lang.github.io/
+- Souffle Datalog Engine: https://souffle-lang.github.io/
 - PyDatalog on PyPI: https://pypi.org/project/pyDatalog/
 
 
